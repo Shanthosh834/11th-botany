@@ -199,7 +199,7 @@ The transfer of electrons from reduced coenzyme NADH to oxygen _via_ complexes I
 
 Oxidation of one molecule of NADH 1 H1 gives rise to 3 molecules of ATP and oxidation of one molecule FADH2
 
-![ Electron Transport Chain and Terminal Oxidation](14.11.png "")
+![ Electron Transport Chain and Terminal Oxidation](14.1.png "")
 
 produces 2 molecules of ATP within a mitochondrion. But cytoplasmic NADH 1 H1 yields only two ATPs through external NADH d e h y d r o g e n a s e . Therefore, two reduced coenzyme (NADH 1 H1) molecules from glycolysis being extra mitochondrial will yield 2 3 2 5 4 ATP molecules instead of 6 ATPs (Figure 14.10). The Mechanism of mitochondrial ATP synthesis is based on Chemiosmotic hypothesis. According to this theory electron carriers present in the inner mitochondrial membrane allow for the transfer of protons (H1). For the production of single ATP, 3 protons (H1) are needed. The terminal oxidation of external NADH bypasses the first phosphorylation site and hence only two ATP molecules are produced per external NADH oxidised through mitochondrial electron transport chain. However, in those animal tissues in which malate shuttle mechanism is present, the oxidation of external NADH will yield almost 3 ATP molecules.
 
